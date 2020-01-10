@@ -1,0 +1,200 @@
+@media only screen and (max-width: 5000px) {
+    .slide figcaption {
+
+        left: 20%;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+    .slide figcaption {
+
+        left: 0;
+    }
+
+    .header-top-info-list ul li {
+
+        margin-right: 10px;
+    }
+
+    .nav-item a {
+
+        margin-right: 15px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .nav-item.bordering a {
+        text-align: center;
+    }
+    .newsletter h2 {
+
+        border-right: none;
+    }
+
+    .navbar-toggler {
+        float: right;
+        margin-top: 20px;
+        width: 38px;
+        padding: 0;
+        display: block;
+    }
+
+    .navbar-header {
+        width: 100%;
+    }
+
+    .navbar-toggler-icon {
+        background: black;
+        width: 30px;
+        display: block;
+        float: left;
+        margin: 3px;
+        height: 2px;
+    }
+
+    .slider-ctr {
+        height: 500px;
+    }
+
+    .slide .title {
+        font-size: 36px;
+    }
+
+    .slide .author {
+        font-size: 22px;
+    }
+
+
+}
+
+@media only screen and (max-width: 768px) {
+    .slide .title {
+        font-size: 24px;
+    }
+
+    .header-top-social-icons.text-right {
+        text-align: center !important;
+    }
+
+    .slide .author {
+        font-size: 16px;
+    }
+
+    .slide figcaption {
+        padding: 30px;
+    }
+
+    .slider-ctr {
+        height: 400px;
+    }
+
+    .contact-form-area input[type="email"] {
+
+        margin-top: 15px;
+        margin-bottom: 15px;
+
+    }
+
+    .contact-form-area input[type="text"] {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .newsletter h2 {
+
+        border: none;
+
+    }
+    .showcase .showcase-text {
+        padding: 5rem;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .fancybox-nav span, .fancybox-nav:hover span, .fancybox-close, .fancybox-close:hover {
+        background: black;
+    }
+    .fancybox-close i {
+        left: 25px;
+        top: 24px;
+        /* background: black; */
+    }
+    .showcase .showcase-text {
+        padding: 2rem;
+    }
+}
+
+
+@media only screen and (max-width: 450px) {
+
+    .slide .title {
+        font-size: 24px;
+    }
+
+    .slide .author {
+        font-size: 16px;
+    }
+
+    .slide figcaption {
+        padding: 30px;
+    }
+
+
+    .slider-control .control {
+        width: 50px;
+        height: 50px;
+
+    }
+
+    .slider-control {
+        font-size: 30px;
+    }
+
+    .slider-control .icon {
+        position: relative;
+        top: 0px;
+    }
+
+    .arrows {
+        max-width: 130px;
+        position: relative;
+        float: right;
+        margin-right: 25px !important;
+    }
+
+    .area-title.p-5 {
+        padding: 0 !important;
+    }
+
+    .area-title .content h3.text-center {
+        font-size: 15px;
+    }
+
+    .area-title .content h2.text-center {
+        font-size: 26px;
+    }
+
+    .testimonial-wrapper .carousel .testimonial {
+        padding: 0;
+
+    }
+
+    .brands_slider_container {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .counter-icon {
+        width: 100%;
+    }
+
+    .brands_nav {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 301px) {
+
+
+}
+
