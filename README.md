@@ -297,7 +297,8 @@ Note:
 
     While images and illustration are only for demo purpose– but if you need the any help please feel free to contact with us.
     This Template is not WordPress Theme, and can’t be installed in WordPress.
-
+    
+<p>if you find some issue please report contact us <a href="https://helpyea.com" rel="nofollow">Here</a></p>
 
 
 
