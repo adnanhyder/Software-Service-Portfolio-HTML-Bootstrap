@@ -10,6 +10,7 @@ Contact Me
     email: maidathemes@gmail.com
 
 Maida Themes Where comes quality
+<a href="https://blog.helpyea.com/maidasoftwareservice/">demo Link here</a>
 #Installing Template
 
     After unzip the download pack, you'll found a Template Folder with all the files.
