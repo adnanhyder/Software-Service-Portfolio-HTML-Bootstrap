@@ -1,4 +1,4 @@
-# Software-Service-Portfolio-HTML-Bootstrap
+# Software Service Portfolio HTML Bootstrap
 Maida Software Service HTML Bootstrap
 
 Maida - Software Services HTML Template
